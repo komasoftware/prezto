@@ -48,7 +48,7 @@ zstyle ':prezto:load' pmodule \
   'prompt' \
   'gcloud' \
   'kubernetes' \
-  'z-zsh'
+  'zsh-z'
 
 #
 # Autosuggestions
