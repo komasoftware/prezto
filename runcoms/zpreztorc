@@ -48,7 +48,8 @@ zstyle ':prezto:load' pmodule \
   'prompt' \
   'gcloud' \
   'kubernetes' \
-  'zsh-z'
+  'zsh-z' \
+  'terraform'
 
 #
 # Autosuggestions
